@@ -7,7 +7,11 @@ Eduguide is a Student Academic Assistance and Guidance Chatbot that helps studen
 - Multi-language support for input and output.
 - Provides academic assistance and career guidance.
 - User-friendly interface built with HTML and Flask.
-  ![image](https://github.com/user-attachments/assets/bb20914c-d434-41c2-9781-f9f01f062151)
+  
+![image](https://github.com/user-attachments/assets/bb20914c-d434-41c2-9781-f9f01f062151)
+
+![image](https://github.com/user-attachments/assets/5a8fe013-15c7-4741-b96b-b6439db9135f)
+
 
 
 ## Installation
@@ -16,3 +20,17 @@ Eduguide is a Student Academic Assistance and Guidance Chatbot that helps studen
    ```bash
    git clone https://github.com/HarshaHharros/Chatbot.git
    cd Chatbot
+   
+## Contribution
+
+We welcome contributions to enhance EduGuide. To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push to your fork.
+4. Submit a pull request with a detailed description of your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+

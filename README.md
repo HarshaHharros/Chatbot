@@ -7,6 +7,8 @@ Eduguide is a Student Academic Assistance and Guidance Chatbot that helps studen
 - Multi-language support for input and output.
 - Provides academic assistance and career guidance.
 - User-friendly interface built with HTML and Flask.
+  ![image](https://github.com/user-attachments/assets/bb20914c-d434-41c2-9781-f9f01f062151)
+
 
 ## Installation
 
